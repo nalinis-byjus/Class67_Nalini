@@ -3,3 +3,4 @@ Sita - Char2
 Lakshmana  - Char3
 Bharatha- Char4
 Shatrugna - Char5
+char6
